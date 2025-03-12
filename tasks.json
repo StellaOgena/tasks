@@ -1,0 +1,38 @@
+{
+    "Tasks": [
+      {
+        "id": 1,
+        "task": "read books",
+        "description": "atleast 5-10 pages",
+        "categories": 1
+      },
+      {
+        "id": 2,
+        "task": "Finish Assignment",
+        "description": "Ass. 1 & 2",
+        "categories": 2
+      },
+      {
+        "id": 3,
+        "task": "Submit Report Paper",
+        "description": "Have it check first to Mr.Suson",
+        "categories": 3
+      }
+    ],
+
+    "categories": [
+        {
+            "id": 1,
+            "name": "Personal",
+        },
+        {
+            "id": 2,
+            "name": "Urgent",
+        },
+        {
+            "id": 3,
+            "name": "Work",
+        }
+    ]
+  }
+
